@@ -1,0 +1,13 @@
+{
+  "name": "3-vazifa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task.js",
+  "scripts": {
+    "start": "node task.js",
+    "dev": "nodemon task.js"
+  },
+  "keywords": [],
+  "author": "Feruzabonu",
+  "license": "ISC"
+}
