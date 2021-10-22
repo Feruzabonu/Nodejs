@@ -1,0 +1,16 @@
+{
+  "name": "Imtihon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemone app.js"
+  },
+  "keywords": [],
+  "author": "Mirzoxidova Feruzabonu",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
